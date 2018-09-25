@@ -1,3 +1,4 @@
+//Simple comment addition
 package javadoc_tags;
 
 import java.io.IOException;
